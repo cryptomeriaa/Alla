@@ -1,1 +1,1 @@
-Object tracking by color using Python and OpenCV
+Object (orange) tracking by color using Python and OpenCV
